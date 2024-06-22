@@ -1,6 +1,6 @@
 # Hover-Card
 
-This repository contains a simple example of creating a hover card using HTML and CSS. Hover cards are useful for displaying additional information when a user hovers over a certain element.
+This repository contains a simple example of creating a hover card using `HTML` and `CSS`. Hover cards are useful for displaying additional information when a user hovers over a certain element.
 
 ## Demo
 
