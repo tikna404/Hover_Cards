@@ -20,8 +20,7 @@ To use this hover card in your project, follow these steps:
 1. **Clone the repository**
 
     ```bash
-    git clone https://github.com/your-username/hover-card.git
-    cd hover-card
+    git clone https://github.com/tikna404/hover-card.git
     ```
 
 2. **Open the `index.html` file in your browser**
